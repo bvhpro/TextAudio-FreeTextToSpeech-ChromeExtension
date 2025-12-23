@@ -1,7 +1,7 @@
-# TextAudio-FreeTextToSpeech-ChromeExtension
+# TextAudio - Free Text To Speech - Chrome Extension
 Turn written words into high-quality MP3 audio in seconds with TextAudio — a sleek browser extension that converts your text into natural, human-like speech. 
 
-**Privacy Policy for Veo3 Automation**
+**Privacy Policy for TextAudio - Free Text To Speech Chrome Extension**
 
 *Data Collection*:
 - Google API Keys: Stored locally, not transmitted to our servers
